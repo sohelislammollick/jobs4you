@@ -4,5 +4,5 @@ Jobs4You is an Online site where anyone can see, post or apply for jobs in vario
 TECHNOLOGIES USED:
 Java Server Pages(JSP), Servlet
 
-DATABASE And Tools:
+DATABASE And TOOLS:
 IBM DB2, Eclips Mars
